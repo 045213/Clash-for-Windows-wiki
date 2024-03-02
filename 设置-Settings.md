@@ -1,90 +1,90 @@
 # 设置 Settings
 
-* Settings
-  * Reset All Settings
-  * Force Quit
-  * Quit
-* Security
-  * Core Secret
-  * Allow unsafe URLs
-* General
-  * Settings Editor
-  * Notifications
-  * Silent Start
-  * Random Controller Port
-  * Random Mixed Port
-  * Lightweight Mode
-  * Run Time Format
-  * GUI Log Folder
-  * Show New Version Icon
-  * Automatic Upgrade (macOS)
-* Appearance
-  * Theme
-  * Follow System Theme
-  * Font Family
-  * Use System Emoji
-  * Default Icon Path (Windows)
-  * System Proxy On Icon Path (Windows)
-  * Hide Tray Icon
-  * Enhanced Tray
-  * Text
-  * Script
-  * Script Interval
-  * Transparent （Windows）
-* System Proxy
-  * Type （Windows）
-  * PAC Content （Windows）
-  * Bypass Domain/IPNet
-  * Specify Protocol （Windows）
-  * Static Host
-* Mixin
-  * Type
-  * YAML
-  * JavaScript
-* Proxies
-  * Proxy Item Width
-  * Mini List Width
-  * Order By
-  * Latency Test URL
-  * Latency Test Timeout
-  * Show Filter
-  * Hide Unselectable Group
-* Connections
-  * Break When Proxy Change
-  * Break When Profile Change
-  * Break When Mode Change
-  * Display Chain Type
-* Providers
-  * Use CFW Editor
-* Outbound
-  * Interface Name
-* Child Processes
-  * Processes
-* Profiles
-  * Parsers
-  * Console Output
-  * Folder Path
-  * Request Headers
-  * Select After Updated
-* Logs
-  * Preload
-* Actions
-  * Scripts
-  * Console Output
-* Shortcuts
-  * System Proxy
-  * TUN Mode
-  * Mixin
-  * Global Mode
-  * Direct Mode
-  * Rule Mode
-  * Script Mode
-  * Show/Hide Dashboard
-  * Run Tray Script
-* Cache
-  * Fake IP Cache
-* Experimental Features（macOS）
-  * DHCP Server
+* [Settings](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#settings)
+  * [Reset All Settings](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#reset-all-settings)
+  * [Force Quit](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#force-quit)
+  * [Quit](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#quit)
+* [Security](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#security)
+  * [Core Secret](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#core-secret)
+  * [Allow unsafe URLs](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#allow-unsafe-urls)
+* [General](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#general)
+  * [Settings Editor](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#settings-editor)
+  * [Notifications](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#notifications)
+  * [Silent Start](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#silent-start)
+  * [Random Controller Port](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#random-controller-port)
+  * [Random Mixed Port](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#random-mixed-port)
+  * [Lightweight Mode](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#lightweight-mode)
+  * [Run Time Format](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#run-time-format)
+  * [GUI Log Folder](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#gui-log-folder)
+  * [Show New Version Icon](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#show-new-version-icon)
+  * [Automatic Upgrade (macOS)](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#automatic-upgrade-macos)
+* [Appearance](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#appearance)
+  * [Theme](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#theme)
+  * [Follow System Theme](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#follow-system-theme)
+  * [Font Family](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#font-family)
+  * [Use System Emoji](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#use-system-emoji)
+  * [Default Icon Path (Windows)](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#default-icon-path-windows)
+  * [System Proxy On Icon Path (Windows)](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#system-proxy-on-icon-path-windows)
+  * [Hide Tray Icon](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#hide-tray-icon)
+  * [Enhanced Tray](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#enhanced-tray)
+  * [Text](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#text)
+  * [Script](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#script)
+  * [Script Interval](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#script-interval)
+  * [Transparent （Windows）](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#transparent-windows)
+* [System Proxy](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#system-proxy)
+  * [Type （Windows）](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#type-windows)
+  * [PAC Content （Windows）](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#pac-content-windows)
+  * [Bypass Domain/IPNet](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#bypass-domainipnet)
+  * [Specify Protocol （Windows）](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#specify-protocol-windows)
+  * [Static Host](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#static-host)
+* [Mixin](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#mixin)
+  * [Type](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#type)
+  * [YAML](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#yaml)
+  * [JavaScript](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#javascript)
+* [Proxies](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#proxies)
+  * [Proxy Item Width](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#proxy-item-width)
+  * [Mini List Width](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#mini-list-width)
+  * [Order By](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#order-by)
+  * [Latency Test URL](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#latency-test-url)
+  * [Latency Test Timeout](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#latency-test-timeout)
+  * [Show Filter](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#show-filter)
+  * [Hide Unselectable Group](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#hide-unselectable-group)
+* [Connections](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#connections)
+  * [Break When Proxy Change](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#break-when-proxy-change)
+  * [Break When Profile Change](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#break-when-profile-change)
+  * [Break When Mode Change](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#break-when-mode-change)
+  * [Display Chain Type](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#display-chain-type)
+* [Providers](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#providers)
+  * [Use CFW Editor](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#use-cfw-editor)
+* [Outbound](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#outbound)
+  * [Interface Name](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#interface-name)
+* [Child Processes](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#child-processes)
+  * [Processes](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#processes)
+* [Profiles](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#profiles)
+  * [Parsers](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#parsers)
+  * [Console Output](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#console-output)
+  * [Folder Path](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#folder-path)
+  * [Request Headers](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#request-headers)
+  * [Select After Updated](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#select-after-updated)
+* [Logs](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#logs)
+  * [Preload](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#preload)
+* [Actions](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#actions)
+  * [Scripts](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#scripts)
+  * [Console Output](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#console-output-1)
+* [Shortcuts](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#shortcuts)
+  * [System Proxy](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#system-proxy-1)
+  * [TUN Mode](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#tun-mode)
+  * [Mixin](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#mixin-1)
+  * [Global Mode](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#global-mode)
+  * [Direct Mode](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#direct-mode)
+  * [Rule Mode](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#rule-mode)
+  * [Script Mode](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#script-mode)
+  * [Show/Hide Dashboard](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#showhide-dashboard)
+  * [Run Tray Script](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#run-tray-script)
+* [Cache](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#cache)
+  * [Fake IP Cache](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#fake-ip-cache)
+* [Experimental Features（macOS）](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#experimental-featuresmacos)
+  * [DHCP Server](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%AE%BE%E7%BD%AE-Settings#dhcp-server)
 
 ## Settings
 
@@ -96,7 +96,7 @@
 
 强制退出 CFW
 
-Quit
+### Quit
 
 正常退出 CFW
 
