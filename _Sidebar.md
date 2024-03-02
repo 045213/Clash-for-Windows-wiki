@@ -11,3 +11,4 @@
 * **[TAP 模式](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/TAP-%E6%A8%A1%E5%BC%8F)**
 * **[Mixin](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/Mixin)**
 * **[配置文件预处理](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E9%A2%84%E5%A4%84%E7%90%86)**
+* **[Actions](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/Actions)**
