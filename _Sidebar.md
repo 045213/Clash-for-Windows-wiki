@@ -16,3 +16,4 @@
 * **[轻量模式（Lightweight Mode）](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%BD%BB%E9%87%8F%E6%A8%A1%E5%BC%8F)**
 * **[DHCP 服务端](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/DHCP-%E6%9C%8D%E5%8A%A1%E7%AB%AF)**
 * **[Enhanced Tray](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/Enhanced-Tray)**
+* **[自定义配置目录](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE%E7%9B%AE%E5%BD%95)**
