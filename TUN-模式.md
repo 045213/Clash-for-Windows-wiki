@@ -129,3 +129,10 @@
 
 2. 点击`General`中`TUN Mode`右边开关启动 TUN 模式
 
+## 配置文件参考
+
+[Clash Wiki](https://web.archive.org/web/20230320130849/https://github.com/Dreamacro/clash/wiki/Clash-Premium-Features)
+
+> NOTICE
+>
+> 如熟悉使用代码启动，也可以使用 [mixin]() 功能进行其他配置
