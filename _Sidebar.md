@@ -7,3 +7,4 @@
 * **[绕过系统代理](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E7%BB%95%E8%BF%87%E7%B3%BB%E7%BB%9F%E4%BB%A3%E7%90%86)**
 * **[打断连接](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E6%89%93%E6%96%AD%E8%BF%9E%E6%8E%A5)**
 * **[便携模式](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E4%BE%BF%E6%90%BA%E6%A8%A1%E5%BC%8F)**
+* **[TUN 模式](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/TUN-%E6%A8%A1%E5%BC%8F)**
