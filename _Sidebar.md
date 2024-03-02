@@ -14,3 +14,4 @@
 * **[Actions](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/Actions)**
 * **[Diff 处理](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/Diff-%E5%A4%84%E7%90%86)**
 * **[轻量模式（Lightweight Mode）](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%BD%BB%E9%87%8F%E6%A8%A1%E5%BC%8F)**
+* **[DHCP 服务端](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/DHCP-%E6%9C%8D%E5%8A%A1%E7%AB%AF)**
