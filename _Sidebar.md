@@ -5,3 +5,4 @@
 * **[界面组成](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E7%95%8C%E9%9D%A2%E7%BB%84%E6%88%90)**
 * **[URL Scheme](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/URL-Scheme)**
 * **[绕过系统代理](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E7%BB%95%E8%BF%87%E7%B3%BB%E7%BB%9F%E4%BB%A3%E7%90%86)**
+* **[打断连接](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E6%89%93%E6%96%AD%E8%BF%9E%E6%8E%A5)**
