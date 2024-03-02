@@ -9,3 +9,4 @@
 * **[便携模式](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E4%BE%BF%E6%90%BA%E6%A8%A1%E5%BC%8F)**
 * **[TUN 模式](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/TUN-%E6%A8%A1%E5%BC%8F)**
 * **[TAP 模式](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/TAP-%E6%A8%A1%E5%BC%8F)**
+* **[Mixin](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/Mixin)**
