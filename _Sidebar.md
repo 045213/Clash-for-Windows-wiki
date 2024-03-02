@@ -19,3 +19,4 @@
 * **[自定义配置目录](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE%E7%9B%AE%E5%BD%95)**
 * **[启动其他应用](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E5%90%AF%E5%8A%A8%E5%85%B6%E4%BB%96%E5%BA%94%E7%94%A8)**
 * **[自定义状态栏图标](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E7%8A%B6%E6%80%81%E6%A0%8F%E5%9B%BE%E6%A0%87)**
+* **[自定义字体](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E4%BD%93)**
