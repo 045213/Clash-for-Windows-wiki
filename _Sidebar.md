@@ -22,3 +22,4 @@
 * **[自定义字体](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AD%97%E4%BD%93)**
 * **[自定义节点排序](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E8%8A%82%E7%82%B9%E6%8E%92%E5%BA%8F)**
 * **[自定义请求头](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E8%87%AA%E5%AE%9A%E4%B9%89%E8%AF%B7%E6%B1%82%E5%A4%B4)**
+* **[常见问题](https://github.com/Z-Siqi/Clash-for-Windows_Chinese/wiki/%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98)**
